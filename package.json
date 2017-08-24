@@ -1,0 +1,18 @@
+
+{
+  "name": "react-native-mcr02-reader",
+  "version": "0.0.1",
+  "description": "React Native bridge for postech's mcr02 emv reader (magnetic and chip card reader)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react-native"
+  ],
+  "author": "jemmyphan",
+  "license": "MIT",
+  "peerDependencies": {
+    "react-native": "^0.41.2"
+  }
+}
